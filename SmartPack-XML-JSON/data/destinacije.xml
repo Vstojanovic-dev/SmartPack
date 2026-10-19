@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<destinacije>
+    <destinacija id="D001">
+        <naziv>Barcelona</naziv>
+        <drzava>Španija</drzava>
+        <povprecnaTemperatura>19</povprecnaTemperatura>
+        <opis>Obmorsko mesto z arhitekturo in mestnimi plažami.</opis>
+        <datumZadnjegaObiska />
+    </destinacija>
+    <destinacija id="D002">
+        <naziv>Ljubljana</naziv>
+        <drzava>Slovenija</drzava>
+        <povprecnaTemperatura>12</povprecnaTemperatura>
+        <opis>Mesto z gradom, parki in možnostmi za izlete.</opis>
+        <datumZadnjegaObiska>2026-05-17</datumZadnjegaObiska>
+    </destinacija>
+    <destinacija id="D003">
+        <naziv>Reykjavík</naziv>
+        <drzava>Islandija</drzava>
+        <povprecnaTemperatura>5</povprecnaTemperatura>
+        <opis>Izhodišče za raziskovanje geotermalnih območij.</opis>
+        <datumZadnjegaObiska>2025-09-12</datumZadnjegaObiska>
+    </destinacija>
+    <destinacija id="D004">
+        <naziv>Lizbona</naziv>
+        <drzava>Portugalska</drzava>
+        <povprecnaTemperatura>18</povprecnaTemperatura>
+        <opis>Gričevnato mesto ob reki Tejo.</opis>
+        <datumZadnjegaObiska>2026-04-21</datumZadnjegaObiska>
+    </destinacija>
+    <destinacija id="D005">
+        <naziv>Rim</naziv>
+        <drzava>Italija</drzava>
+        <povprecnaTemperatura>17</povprecnaTemperatura>
+        <opis>Zgodovinsko mesto s številnimi muzeji.</opis>
+        <datumZadnjegaObiska>2025-10-15</datumZadnjegaObiska>
+    </destinacija>
+    <destinacija id="D006">
+        <naziv>Oslo</naziv>
+        <drzava>Norveška</drzava>
+        <povprecnaTemperatura>7</povprecnaTemperatura>
+        <opis>Mesto ob fjordu z urejenimi pohodniškimi potmi.</opis>
+        <datumZadnjegaObiska>2025-08-08</datumZadnjegaObiska>
+    </destinacija>
+    <destinacija id="D007">
+        <naziv>Split</naziv>
+        <drzava>Hrvaška</drzava>
+        <povprecnaTemperatura>21</povprecnaTemperatura>
+        <opis>Dalmatinsko mesto z obalo in starim jedrom.</opis>
+        <datumZadnjegaObiska>2026-06-09</datumZadnjegaObiska>
+    </destinacija>
+    <destinacija id="D008">
+        <naziv>Dunaj</naziv>
+        <drzava>Avstrija</drzava>
+        <povprecnaTemperatura>10</povprecnaTemperatura>
+        <opis>Mesto galerij, palač in koncertnih dvoran.</opis>
+        <datumZadnjegaObiska>2025-12-02</datumZadnjegaObiska>
+    </destinacija>
+    <destinacija id="D009">
+        <naziv>Praga</naziv>
+        <drzava>Češka</drzava>
+        <povprecnaTemperatura>9</povprecnaTemperatura>
+        <opis>Mesto zgodovinskih ulic in znamenitih mostov.</opis>
+        <datumZadnjegaObiska>2026-02-14</datumZadnjegaObiska>
+    </destinacija>
+    <destinacija id="D010">
+        <naziv>Amsterdam</naziv>
+        <drzava>Nizozemska</drzava>
+        <povprecnaTemperatura>11</povprecnaTemperatura>
+        <opis>Mesto kanalov in kolesarskih poti.</opis>
+        <datumZadnjegaObiska>2025-07-19</datumZadnjegaObiska>
+    </destinacija>
+    <destinacija id="D011">
+        <naziv>Zürich</naziv>
+        <drzava>Švica</drzava>
+        <povprecnaTemperatura>8</povprecnaTemperatura>
+        <opis>Mesto ob jezeru v bližini hribov.</opis>
+        <datumZadnjegaObiska>2026-01-25</datumZadnjegaObiska>
+    </destinacija>
+    <destinacija id="D012">
+        <naziv>Edinburgh</naziv>
+        <drzava>Združeno kraljestvo</drzava>
+        <povprecnaTemperatura>8</povprecnaTemperatura>
+        <opis />
+        <datumZadnjegaObiska>2024-11-06</datumZadnjegaObiska>
+    </destinacija>
+</destinacije>

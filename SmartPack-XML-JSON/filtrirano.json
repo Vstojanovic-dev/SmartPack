@@ -1,0 +1,70 @@
+{
+    "potovanja": [
+        {
+            "id": "P001",
+            "destinacija": {
+                "id": "D001",
+                "naziv": "Barcelona",
+                "drzava": "Španija",
+                "povprecna_temperatura": 19,
+                "opis": "Obmorsko mesto z arhitekturo in mestnimi plažami.",
+                "datum_zadnjega_obiska": null
+            },
+            "datum_odhoda": "2026-11-10",
+            "datum_vrnitve": "2026-11-15",
+            "tip_prtljage": "rocna",
+            "max_teza": 8.0,
+            "aktivnosti": [
+                {
+                    "id": "A001",
+                    "destinacija_id": "D001",
+                    "naziv": "Obisk plaže",
+                    "kategorija": "plaza",
+                    "trajanje_ur": 4,
+                    "opis": "Počitek in kopanje na mestni plaži."
+                },
+                {
+                    "id": "A002",
+                    "destinacija_id": "D001",
+                    "naziv": "Ogled Gaudíjeve arhitekture",
+                    "kategorija": "kultura",
+                    "trajanje_ur": 3,
+                    "opis": "Sprehod do znanih arhitekturnih znamenitosti."
+                }
+            ]
+        },
+        {
+            "id": "P013",
+            "destinacija": {
+                "id": "D001",
+                "naziv": "Barcelona",
+                "drzava": "Španija",
+                "povprecna_temperatura": 19,
+                "opis": "Obmorsko mesto z arhitekturo in mestnimi plažami.",
+                "datum_zadnjega_obiska": null
+            },
+            "datum_odhoda": "2027-07-03",
+            "datum_vrnitve": "2027-07-08",
+            "tip_prtljage": "oddana",
+            "max_teza": 20.0,
+            "aktivnosti": [
+                {
+                    "id": "A001",
+                    "destinacija_id": "D001",
+                    "naziv": "Obisk plaže",
+                    "kategorija": "plaza",
+                    "trajanje_ur": 4,
+                    "opis": "Počitek in kopanje na mestni plaži."
+                },
+                {
+                    "id": "A002",
+                    "destinacija_id": "D001",
+                    "naziv": "Ogled Gaudíjeve arhitekture",
+                    "kategorija": "kultura",
+                    "trajanje_ur": 3,
+                    "opis": "Sprehod do znanih arhitekturnih znamenitosti."
+                }
+            ]
+        }
+    ]
+}

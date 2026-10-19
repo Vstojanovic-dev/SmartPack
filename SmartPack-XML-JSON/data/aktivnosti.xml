@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aktivnosti>
+    <aktivnost id="A001" destinacijaId="D001">
+        <naziv>Obisk plaže</naziv>
+        <kategorija>plaza</kategorija>
+        <trajanjeUr>4</trajanjeUr>
+        <opis>Počitek in kopanje na mestni plaži.</opis>
+    </aktivnost>
+    <aktivnost id="A002" destinacijaId="D001">
+        <naziv>Ogled Gaudíjeve arhitekture</naziv>
+        <kategorija>kultura</kategorija>
+        <trajanjeUr>3</trajanjeUr>
+        <opis>Sprehod do znanih arhitekturnih znamenitosti.</opis>
+    </aktivnost>
+    <aktivnost id="A003" destinacijaId="D002">
+        <naziv>Sprehod na Ljubljanski grad</naziv>
+        <kategorija>pohodnistvo</kategorija>
+        <trajanjeUr>2</trajanjeUr>
+        <opis>Vzpon na grajski grič.</opis>
+    </aktivnost>
+    <aktivnost id="A004" destinacijaId="D002">
+        <naziv>Kolesarjenje ob Ljubljanici</naziv>
+        <kategorija>sport</kategorija>
+        <trajanjeUr>3</trajanjeUr>
+        <opis>Lažja kolesarska pot skozi mesto.</opis>
+    </aktivnost>
+    <aktivnost id="A005" destinacijaId="D003">
+        <naziv>Ogled gejzirjev</naziv>
+        <kategorija>narava</kategorija>
+        <trajanjeUr>6</trajanjeUr>
+        <opis>Celodnevni izlet do geotermalnih območij.</opis>
+    </aktivnost>
+    <aktivnost id="A006" destinacijaId="D003">
+        <naziv>Obisk termalnega kopališča</naziv>
+        <kategorija>sprostitev</kategorija>
+        <trajanjeUr>3</trajanjeUr>
+        <opis>Kopanje v topli geotermalni vodi.</opis>
+    </aktivnost>
+    <aktivnost id="A007" destinacijaId="D004">
+        <naziv>Sprehod po Alfami</naziv>
+        <kategorija>kultura</kategorija>
+        <trajanjeUr>3</trajanjeUr>
+        <opis>Raziskovanje stare mestne četrti.</opis>
+    </aktivnost>
+    <aktivnost id="A008" destinacijaId="D005">
+        <naziv>Obisk Koloseja</naziv>
+        <kategorija>kultura</kategorija>
+        <trajanjeUr>2</trajanjeUr>
+        <opis>Ogled antičnega spomenika.</opis>
+    </aktivnost>
+    <aktivnost id="A009" destinacijaId="D006">
+        <naziv>Pohod nad fjordom</naziv>
+        <kategorija>pohodnistvo</kategorija>
+        <trajanjeUr>5</trajanjeUr>
+        <opis>Lahka pohodniška pot z razgledom.</opis>
+    </aktivnost>
+    <aktivnost id="A010" destinacijaId="D007">
+        <naziv>Kopanje na plaži Bačvice</naziv>
+        <kategorija>plaza</kategorija>
+        <trajanjeUr>4</trajanjeUr>
+        <opis>Prosti čas na mestni plaži.</opis>
+    </aktivnost>
+    <aktivnost id="A011" destinacijaId="D008">
+        <naziv>Obisk umetnostnega muzeja</naziv>
+        <kategorija>kultura</kategorija>
+        <trajanjeUr>3</trajanjeUr>
+        <opis>Ogled stalnih umetniških zbirk.</opis>
+    </aktivnost>
+    <aktivnost id="A012" destinacijaId="D009">
+        <naziv>Sprehod po starem mestu</naziv>
+        <kategorija>kultura</kategorija>
+        <trajanjeUr>3</trajanjeUr>
+        <opis>Ogled mostov in zgodovinskih ulic.</opis>
+    </aktivnost>
+    <aktivnost id="A013" destinacijaId="D010">
+        <naziv>Kolesarski ogled kanalov</naziv>
+        <kategorija>sport</kategorija>
+        <trajanjeUr>4</trajanjeUr>
+        <opis>Raziskovanje mesta s kolesom.</opis>
+    </aktivnost>
+    <aktivnost id="A014" destinacijaId="D011">
+        <naziv>Sprehod ob Züriškem jezeru</naziv>
+        <kategorija>narava</kategorija>
+        <trajanjeUr>2</trajanjeUr>
+        <opis>Sprostitev ob jezerski promenadi.</opis>
+    </aktivnost>
+    <aktivnost id="A015" destinacijaId="D012">
+        <naziv>Vzpon na Arthur’s Seat</naziv>
+        <kategorija>pohodnistvo</kategorija>
+        <trajanjeUr>4</trajanjeUr>
+        <opis>Pohod na razgledni vrh nad mestom.</opis>
+    </aktivnost>
+</aktivnosti>

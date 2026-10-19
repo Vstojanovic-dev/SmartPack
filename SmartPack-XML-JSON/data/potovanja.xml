@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<potovanja>
+    <potovanje id="P001" destinacijaId="D001">
+        <datumOdhoda>2026-11-10</datumOdhoda>
+        <datumVrnitve>2026-11-15</datumVrnitve>
+        <tipPrtljage>rocna</tipPrtljage>
+        <maxTeza>8</maxTeza>
+        <aktivnosti>
+            <aktivnostRef id="A001" />
+            <aktivnostRef id="A002" />
+        </aktivnosti>
+    </potovanje>
+    <potovanje id="P002" destinacijaId="D002">
+        <datumOdhoda>2026-11-20</datumOdhoda>
+        <datumVrnitve>2026-11-22</datumVrnitve>
+        <tipPrtljage>nahrbtnik</tipPrtljage>
+        <maxTeza>6</maxTeza>
+        <aktivnosti>
+            <aktivnostRef id="A003" />
+            <aktivnostRef id="A004" />
+        </aktivnosti>
+    </potovanje>
+    <potovanje id="P003" destinacijaId="D003">
+        <datumOdhoda>2026-12-03</datumOdhoda>
+        <datumVrnitve>2026-12-10</datumVrnitve>
+        <tipPrtljage>oddana</tipPrtljage>
+        <maxTeza>23</maxTeza>
+        <aktivnosti>
+            <aktivnostRef id="A005" />
+            <aktivnostRef id="A006" />
+        </aktivnosti>
+    </potovanje>
+    <potovanje id="P004" destinacijaId="D004">
+        <datumOdhoda>2026-12-11</datumOdhoda>
+        <datumVrnitve>2026-12-16</datumVrnitve>
+        <tipPrtljage>rocna</tipPrtljage>
+        <maxTeza>10</maxTeza>
+        <aktivnosti>
+            <aktivnostRef id="A007" />
+        </aktivnosti>
+    </potovanje>
+    <potovanje id="P005" destinacijaId="D005">
+        <datumOdhoda>2027-01-08</datumOdhoda>
+        <datumVrnitve>2027-01-12</datumVrnitve>
+        <tipPrtljage>rocna</tipPrtljage>
+        <maxTeza>8</maxTeza>
+        <aktivnosti>
+            <aktivnostRef id="A008" />
+        </aktivnosti>
+    </potovanje>
+    <potovanje id="P006" destinacijaId="D006">
+        <datumOdhoda>2027-02-05</datumOdhoda>
+        <datumVrnitve>2027-02-11</datumVrnitve>
+        <tipPrtljage>oddana</tipPrtljage>
+        <maxTeza>20</maxTeza>
+        <aktivnosti>
+            <aktivnostRef id="A009" />
+        </aktivnosti>
+    </potovanje>
+    <potovanje id="P007" destinacijaId="D007">
+        <datumOdhoda>2027-06-12</datumOdhoda>
+        <datumVrnitve>2027-06-19</datumVrnitve>
+        <tipPrtljage>oddana</tipPrtljage>
+        <maxTeza>23</maxTeza>
+        <aktivnosti>
+            <aktivnostRef id="A010" />
+        </aktivnosti>
+    </potovanje>
+    <potovanje id="P008" destinacijaId="D008">
+        <datumOdhoda>2026-12-18</datumOdhoda>
+        <datumVrnitve>2026-12-21</datumVrnitve>
+        <tipPrtljage>nahrbtnik</tipPrtljage>
+        <maxTeza>7</maxTeza>
+        <aktivnosti>
+            <aktivnostRef id="A011" />
+        </aktivnosti>
+    </potovanje>
+    <potovanje id="P009" destinacijaId="D009">
+        <datumOdhoda>2027-03-19</datumOdhoda>
+        <datumVrnitve>2027-03-22</datumVrnitve>
+        <tipPrtljage>rocna</tipPrtljage>
+        <maxTeza>8</maxTeza>
+        <aktivnosti>
+            <aktivnostRef id="A012" />
+        </aktivnosti>
+    </potovanje>
+    <potovanje id="P010" destinacijaId="D010">
+        <datumOdhoda>2027-04-10</datumOdhoda>
+        <datumVrnitve>2027-04-15</datumVrnitve>
+        <tipPrtljage>rocna</tipPrtljage>
+        <maxTeza>10</maxTeza>
+        <aktivnosti>
+            <aktivnostRef id="A013" />
+        </aktivnosti>
+    </potovanje>
+    <potovanje id="P011" destinacijaId="D011">
+        <datumOdhoda>2027-05-06</datumOdhoda>
+        <datumVrnitve>2027-05-09</datumVrnitve>
+        <tipPrtljage>nahrbtnik</tipPrtljage>
+        <maxTeza>6</maxTeza>
+        <aktivnosti>
+            <aktivnostRef id="A014" />
+        </aktivnosti>
+    </potovanje>
+    <potovanje id="P012" destinacijaId="D012">
+        <datumOdhoda>2027-05-21</datumOdhoda>
+        <datumVrnitve>2027-05-26</datumVrnitve>
+        <tipPrtljage>oddana</tipPrtljage>
+        <maxTeza>18</maxTeza>
+        <aktivnosti>
+            <aktivnostRef id="A015" />
+        </aktivnosti>
+    </potovanje>
+    <potovanje id="P013" destinacijaId="D001">
+        <datumOdhoda>2027-07-03</datumOdhoda>
+        <datumVrnitve>2027-07-08</datumVrnitve>
+        <tipPrtljage>oddana</tipPrtljage>
+        <maxTeza>20</maxTeza>
+        <aktivnosti>
+            <aktivnostRef id="A001" />
+            <aktivnostRef id="A002" />
+        </aktivnosti>
+    </potovanje>
+    <potovanje id="P014" destinacijaId="D002">
+        <datumOdhoda>2027-06-04</datumOdhoda>
+        <datumVrnitve>2027-06-07</datumVrnitve>
+        <tipPrtljage>rocna</tipPrtljage>
+        <maxTeza>8</maxTeza>
+        <aktivnosti>
+            <aktivnostRef id="A003" />
+        </aktivnosti>
+    </potovanje>
+    <potovanje id="P015" destinacijaId="D003">
+        <datumOdhoda>2027-08-14</datumOdhoda>
+        <datumVrnitve>2027-08-21</datumVrnitve>
+        <tipPrtljage>nahrbtnik</tipPrtljage>
+        <maxTeza>7</maxTeza>
+        <aktivnosti>
+            <aktivnostRef id="A005" />
+        </aktivnosti>
+    </potovanje>
+</potovanja>

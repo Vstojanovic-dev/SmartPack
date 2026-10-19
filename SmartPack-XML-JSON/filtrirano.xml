@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<filtriranaPotovanja>
+    <potovanje id="P001">
+        <destinacija id="D001">
+            <naziv>Barcelona</naziv>
+            <drzava>Španija</drzava>
+            <povprecnaTemperatura>19</povprecnaTemperatura>
+            <opis>Obmorsko mesto z arhitekturo in mestnimi plažami.</opis>
+            <datumZadnjegaObiska />
+        </destinacija>
+        <datumOdhoda>2026-11-10</datumOdhoda>
+        <datumVrnitve>2026-11-15</datumVrnitve>
+        <tipPrtljage>rocna</tipPrtljage>
+        <maxTeza>8.0</maxTeza>
+        <aktivnosti>
+            <aktivnost id="A001" destinacijaId="D001">
+                <naziv>Obisk plaže</naziv>
+                <kategorija>plaza</kategorija>
+                <trajanjeUr>4</trajanjeUr>
+                <opis>Počitek in kopanje na mestni plaži.</opis>
+            </aktivnost>
+            <aktivnost id="A002" destinacijaId="D001">
+                <naziv>Ogled Gaudíjeve arhitekture</naziv>
+                <kategorija>kultura</kategorija>
+                <trajanjeUr>3</trajanjeUr>
+                <opis>Sprehod do znanih arhitekturnih znamenitosti.</opis>
+            </aktivnost>
+        </aktivnosti>
+    </potovanje>
+    <potovanje id="P013">
+        <destinacija id="D001">
+            <naziv>Barcelona</naziv>
+            <drzava>Španija</drzava>
+            <povprecnaTemperatura>19</povprecnaTemperatura>
+            <opis>Obmorsko mesto z arhitekturo in mestnimi plažami.</opis>
+            <datumZadnjegaObiska />
+        </destinacija>
+        <datumOdhoda>2027-07-03</datumOdhoda>
+        <datumVrnitve>2027-07-08</datumVrnitve>
+        <tipPrtljage>oddana</tipPrtljage>
+        <maxTeza>20.0</maxTeza>
+        <aktivnosti>
+            <aktivnost id="A001" destinacijaId="D001">
+                <naziv>Obisk plaže</naziv>
+                <kategorija>plaza</kategorija>
+                <trajanjeUr>4</trajanjeUr>
+                <opis>Počitek in kopanje na mestni plaži.</opis>
+            </aktivnost>
+            <aktivnost id="A002" destinacijaId="D001">
+                <naziv>Ogled Gaudíjeve arhitekture</naziv>
+                <kategorija>kultura</kategorija>
+                <trajanjeUr>3</trajanjeUr>
+                <opis>Sprehod do znanih arhitekturnih znamenitosti.</opis>
+            </aktivnost>
+        </aktivnosti>
+    </potovanje>
+</filtriranaPotovanja>
