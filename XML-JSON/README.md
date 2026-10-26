@@ -76,6 +76,20 @@ Na nekaterih računalnikih je treba namesto `python` uporabiti `python3` ali na 
 
 Program lahko zaženete tudi iz druge delovne mape, saj poišče podatke glede na lokacijo datoteke `main.py`.
 
+### Interaktivna konzola
+
+Za delo brez ponavljanja zagona zaženite `python konzola.py`. Podatki se naložijo enkrat, nato vpisujete ukaze:
+
+```text
+smartpack> potovanja --destinacija Barcelona --tip-prtljage rocna
+smartpack> destinacije
+smartpack> ponovno_nalozi
+smartpack> help
+smartpack> izhod
+```
+
+Ukaz `potovanja` sprejme iste filtre kot `main.py` in prav tako prepiše `filtrirano.json` ter `filtrirano.xml`.
+
 ## Rezultati: JSON in XML
 
 Ob vsakem uspešnem zagonu se v mapi projekta ustvarita oziroma prepišeta:

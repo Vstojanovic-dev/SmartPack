@@ -1,0 +1,78 @@
+{
+  "source": "Wikivoyage",
+  "attribution": "Wikivoyage contributors (see the article and its history)",
+  "source_url": "https://en.wikivoyage.org/wiki/Packing_list",
+  "retrieved_at": "2026-10-26T20:35:38+00:00",
+  "type": "general_packing",
+  "license": "CC BY-SA 4.0",
+  "categories": [
+    {
+      "name": "Baggage / Pack expecting complications",
+      "items": [
+        "Identification",
+        "Means of purchasing (cash, credit card)",
+        "Medicines and medical devices (including corrective eyewear)",
+        "Electronics",
+        "Clothing you need before you can reach a shop (especially if going to a climate where what you are wearing isn't adequate)"
+      ]
+    },
+    {
+      "name": "Get around / Navigation",
+      "items": [
+        "a compass , especially if you're going someplace without a grid of city streets"
+      ]
+    },
+    {
+      "name": "Wear / Laundering clothes",
+      "items": [
+        "a universal sink stopper , and you can do your washing in your bathroom sink if necessary"
+      ]
+    },
+    {
+      "name": "See and do / Power supplies",
+      "items": [
+        "battery chargers and travel power adapters for any electrical device you may use"
+      ]
+    },
+    {
+      "name": "See and do / Photography and videos",
+      "items": [
+        "a camera , along with sufficient storage and batteries"
+      ]
+    },
+    {
+      "name": "See and do / Time fillers",
+      "items": [
+        "some amusements for long waits and journeys",
+        "cheap corded headphones instead of expensive and easily-lost wireless headphones",
+        "a pack of cards for when the batteries are dead, and all else fails"
+      ]
+    },
+    {
+      "name": "Other",
+      "items": [
+        "Odor eliminator",
+        "Portable clothesline",
+        "Good quality sports bra",
+        "Energy bars",
+        "Toilet paper",
+        "Batteries",
+        "Mosquito repellent with DEET",
+        "Sunscreen",
+        "Carabiners",
+        "Anti-itch cream",
+        "Ear plugs",
+        "An eye mask",
+        "Alarm clocks",
+        "A utility knife for outdoor life"
+      ]
+    },
+    {
+      "name": "Connect",
+      "items": [
+        "along a laptop or tablet to get online",
+        "a plug adapter if you need one"
+      ]
+    }
+  ]
+}
