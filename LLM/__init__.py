@@ -1,0 +1,1 @@
+"""SmartPack packing assistant."""
